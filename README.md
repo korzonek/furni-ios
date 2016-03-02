@@ -1,4 +1,4 @@
-# Furni for iOS
+# Furni for iOS[![codebeat](https://codebeat.co/badges/ba974311-16e3-4645-8b4f-7d936d27cb0a)](https://codebeat.co/projects/github-com-twitterdev-furni-ios)
 
 [Furni](http://furni.xyz) for iOS is a furniture store demo app designed by [Romain Huet](https://twitter.com/romainhuet) and written in Swift 2.
 
